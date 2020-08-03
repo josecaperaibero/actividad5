@@ -1,0 +1,14 @@
+#column {
+    background-color: black;
+    color: blanchedalmond;
+    font-size: 30px;
+}
+
+
+footer {
+    align-self: flex-end;
+    background-color: whitesmoke;
+    line-height: 3;
+    text-align: center;
+    width: 100%;
+}
